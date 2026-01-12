@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="missing_api_key">Missing API Key</string>
+    <string name="set_api_key_toast">Please set your API key in MainActivity.java</string>
+    <string name="city_not_found">City not found or connection error</string>
+    <string name="enter_city_prompt">Please enter a city name</string>
+    <string name="parse_error">Error parsing data</string>
 </resources>
